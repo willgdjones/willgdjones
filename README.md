@@ -13,15 +13,15 @@ I run [Perihelion](https://willgdjones.com), an AI consultancy. I spent 7 years 
 
 ## Current Projects
 
-- 🤖 **[AgentFix](https://github.com/willgdjones/agentfix)** — Auto-fix errors in your dev server as they happen using AI. Watches your terminal, catches the error, feeds it to Claude or Cursor, and applies the patch. Zero context-switching.
-
 - 👻 **[Boggart](https://github.com/willgdjones/boggart)** — Hyper-personalised content generator. Ingests your digital footprint via Google services, builds a psychological profile with Claude, then generates tailored advertising — copy, images, and video.
 
-- 🤝 **[Kindred Spirits](https://github.com/willgdjones/thielsecrets)** — A matching app built around Peter Thiel's contrarian question: *"What important truth do very few people agree with you on?"* Share your secret, swipe through others, get matched with people who see the world the same way.
-
-- 📝 **[DocTweak](https://github.com/willgdjones/doctweak)** — A Google Docs add-on that lets you rewrite, edit, and transform text with AI directly in the sidebar. Select text, describe what you want, get it back instantly.
+- 🤖 **[AgentFix](https://github.com/willgdjones/agentfix)** — Auto-fix errors in your dev server as they happen using AI. Watches your terminal, catches the error, feeds it to Claude or Cursor, and applies the patch. Zero context-switching.
 
 - 🆘 **[HelpMe AI](https://github.com/willgdjones/helpme)** — Voice and image-powered AI assistant. Transcribes speech with Whisper, reads screenshots with OCR, and answers questions using GPT. Built for hands-free, eyes-free help.
+
+- 🤝 **[Thiel Secrets](https://github.com/willgdjones/thielsecrets)** — A matching app built around Peter Thiel's contrarian question: *"What important truth do very few people agree with you on?"* Share your secret, swipe through others, get matched with people who see the world the same way.
+
+- 📝 **[DocTweak](https://github.com/willgdjones/doctweak)** — A Google Docs add-on that lets you rewrite, edit, and transform text with AI directly in the sidebar. Select text, describe what you want, get it back instantly.
 
 ## Writing
 

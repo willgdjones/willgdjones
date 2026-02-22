@@ -13,23 +13,15 @@ I run [Perihelion](https://perihelion.limited), an AI consultancy. I spent 7 yea
 
 ## Current Projects
 
-- 🎙️ **[Retinue](https://github.com/willgdjones/retinue)** — Ambient AI research assistant. Listens, detects key moments, dispatches research agents in real-time.
-
-- 👻 **[Boggart](https://github.com/willgdjones/boggart)** — Builds a psychological profile from your digital footprint, then generates hyper-personalised ads.
-
-- 🧪 **[Distillation](https://distillation.app)** — Personalised knowledge synthesis. Consolidates the internet into dense briefings tailored to you.
-
-- 🏎️ **[Slipstream](https://github.com/willgdjones/slipstream)** — Polymarket × Binance latency arbitrage bot. Rust. Exploits 3-7s repricing lag.
-
-- 💷 **[LifetimeTax](https://lifetimetax.co.uk)** — Calculates your lifetime UK tax contribution using HMRC data. Generates shareable receipt cards.
-
-- 🤖 **[AgentFix](https://github.com/willgdjones/agentfix)** — Auto-fixes dev server errors using AI. Watches your terminal, patches the code. Zero context-switching.
-
-- 🤝 **[Thiel Secrets](https://github.com/willgdjones/thielsecrets)** — Share your contrarian belief, swipe through others, get matched with kindred spirits.
-
-- 🆘 **[HelpMe AI](https://github.com/willgdjones/helpme)** — Voice and image-powered AI assistant. Whisper transcription, OCR, GPT answers. Hands-free help.
-
-- 📝 **[DocTweak](https://github.com/willgdjones/doctweak)** — Google Docs add-on. Rewrite and transform text with AI directly in the sidebar.
+- 🎙️ [Retinue](https://github.com/willgdjones/retinue) - Ambient AI research assistant; listens, detects key moments, dispatches agents
+- 👻 [Boggart](https://github.com/willgdjones/boggart) - Psychological profiling from your digital footprint → hyper-personalised ads
+- 🧪 [Distillation](https://distillation.app) - Personalised knowledge synthesis; consolidates the internet into dense briefings
+- 🏎️ [Slipstream](https://github.com/willgdjones/slipstream) - Polymarket × Binance latency arbitrage bot in Rust
+- 💷 [LifetimeTax](https://lifetimetax.co.uk) - Lifetime UK tax contribution calculator using HMRC OAuth data
+- 🤖 [AgentFix](https://github.com/willgdjones/agentfix) - Auto-fixes dev server errors with AI; watches terminal, patches code
+- 🤝 [Thiel Secrets](https://github.com/willgdjones/thielsecrets) - Share your contrarian belief, swipe, get matched with kindred spirits
+- 🆘 [HelpMe AI](https://github.com/willgdjones/helpme) - Voice + image AI assistant; Whisper, OCR, GPT. Hands-free help
+- 📝 [DocTweak](https://github.com/willgdjones/doctweak) - Google Docs add-on; rewrite and transform text with AI in the sidebar
 
 ## Writing
 

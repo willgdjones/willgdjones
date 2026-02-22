@@ -13,23 +13,23 @@ I run [Perihelion](https://perihelion.limited), an AI consultancy. I spent 7 yea
 
 ## Current Projects
 
-- 🎙️ **[Retinue](https://github.com/willgdjones/retinue)** — Real-time ambient listening AI research assistant. Transcribes conversations with Deepgram, detects trigger moments with Claude, and dispatches parallel research agents to surface relevant context in real-time.
+- 🎙️ **[Retinue](https://github.com/willgdjones/retinue)** — Ambient AI research assistant. Listens, detects key moments, dispatches research agents in real-time.
 
-- 👻 **[Boggart](https://github.com/willgdjones/boggart)** — Hyper-personalised content generator. Ingests your digital footprint via Google services, builds a psychological profile with Claude, then generates tailored advertising - copy, images, and video.
+- 👻 **[Boggart](https://github.com/willgdjones/boggart)** — Builds a psychological profile from your digital footprint, then generates hyper-personalised ads.
 
-- 🧪 **[Distillation](https://distillation.app)** — Personalised knowledge synthesis. Consolidates information across the internet and synthesises it into dense, information-rich briefings tailored to your interests and goals.
+- 🧪 **[Distillation](https://distillation.app)** — Personalised knowledge synthesis. Consolidates the internet into dense briefings tailored to you.
 
-- 🏎️ **[Slipstream](https://github.com/willgdjones/slipstream)** — Polymarket × Binance latency arbitrage bot. Exploits the 3-7s repricing lag between Binance BTC spot and Polymarket binary prediction contracts. Built in Rust.
+- 🏎️ **[Slipstream](https://github.com/willgdjones/slipstream)** — Polymarket × Binance latency arbitrage bot. Rust. Exploits 3-7s repricing lag.
 
-- 💷 **[LifetimeTax](https://lifetimetax.co.uk)** — Calculates your lifetime UK tax contribution using HMRC OAuth data plus ONS-based estimations, then generates shareable receipt cards.
+- 💷 **[LifetimeTax](https://lifetimetax.co.uk)** — Calculates your lifetime UK tax contribution using HMRC data. Generates shareable receipt cards.
 
-- 🤖 **[AgentFix](https://github.com/willgdjones/agentfix)** — Auto-fix errors in your dev server as they happen using AI. Watches your terminal, catches the error, feeds it to Claude or Cursor, and applies the patch. Zero context-switching.
+- 🤖 **[AgentFix](https://github.com/willgdjones/agentfix)** — Auto-fixes dev server errors using AI. Watches your terminal, patches the code. Zero context-switching.
 
-- 🤝 **[Thiel Secrets](https://github.com/willgdjones/thielsecrets)** — A matching app built around Peter Thiel's contrarian question: *"What important truth do very few people agree with you on?"* Share your secret, swipe through others, get matched with people who see the world the same way.
+- 🤝 **[Thiel Secrets](https://github.com/willgdjones/thielsecrets)** — Share your contrarian belief, swipe through others, get matched with kindred spirits.
 
-- 🆘 **[HelpMe AI](https://github.com/willgdjones/helpme)** — Voice and image-powered AI assistant. Transcribes speech with Whisper, reads screenshots with OCR, and answers questions using GPT. Built for hands-free, eyes-free help.
+- 🆘 **[HelpMe AI](https://github.com/willgdjones/helpme)** — Voice and image-powered AI assistant. Whisper transcription, OCR, GPT answers. Hands-free help.
 
-- 📝 **[DocTweak](https://github.com/willgdjones/doctweak)** — A Google Docs add-on that lets you rewrite, edit, and transform text with AI directly in the sidebar. Select text, describe what you want, get it back instantly.
+- 📝 **[DocTweak](https://github.com/willgdjones/doctweak)** — Google Docs add-on. Rewrite and transform text with AI directly in the sidebar.
 
 ## Writing
 

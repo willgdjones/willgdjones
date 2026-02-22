@@ -13,15 +13,15 @@ I run [Perihelion](https://perihelion.limited), an AI consultancy. I spent 7 yea
 
 ## Current Projects
 
-- 🎙️ [Retinue](https://github.com/willgdjones/retinue) - Ambient AI research assistant; listens, detects key moments, dispatches agents `Feb 2026`
-- 👻 [Boggart](https://github.com/willgdjones/boggart) - Psychological profiling from your digital footprint → hyper-personalised ads `Feb 2026` | [boggart.ai](https://boggart.ai)
-- 💧 [Distillation](https://github.com/willgdjones/distillation) - Personalised knowledge synthesis; consolidates the internet into dense briefings `Feb 2026` | [distillation.app](https://distillation.app)
-- 🏎️ [Slipstream](https://github.com/willgdjones/slipstream) - Polymarket × Binance latency arbitrage bot in Rust `Jan 2026`
-- 💷 [LifetimeTax](https://github.com/willgdjones/lifetimetax) - Lifetime UK tax contribution calculator using HMRC OAuth data `Jan 2026` | [lifetimetax.co.uk](https://lifetimetax.co.uk)
-- 🤖 [AgentFix](https://github.com/willgdjones/agentfix) - Auto-fixes dev server errors with AI; watches terminal, patches code `Dec 2025`
-- 🤫 [Thiel Secrets](https://github.com/willgdjones/thielsecrets) - Share your contrarian belief, swipe, get matched with kindred spirits `Nov 2025` | [thielsecrets.com](https://thielsecrets.com)
-- 🆘 [HelpMe AI](https://github.com/willgdjones/helpme) - Voice + image AI assistant; Whisper, OCR, GPT. Hands-free help `Sep 2025`
-- 📝 [DocTweak](https://github.com/willgdjones/doctweak) - Google Docs add-on; rewrite and transform text with AI in the sidebar `Feb 2025`
+- 🎙️ Retinue [repo](https://github.com/willgdjones/retinue) - Ambient AI research assistant; listens, detects key moments, dispatches agents `Feb 2026`
+- 👻 Boggart [repo](https://github.com/willgdjones/boggart) - Psychological profiling from your digital footprint → hyper-personalised ads `Feb 2026` | [link](https://boggart.ai)
+- 💧 Distillation [repo](https://github.com/willgdjones/distillation) - Personalised knowledge synthesis; consolidates the internet into dense briefings `Feb 2026` | [link](https://distillation.app)
+- 🏎️ Slipstream [repo](https://github.com/willgdjones/slipstream) - Polymarket × Binance latency arbitrage bot in Rust `Jan 2026`
+- 💷 LifetimeTax [repo](https://github.com/willgdjones/lifetimetax) - Lifetime UK tax contribution calculator using HMRC OAuth data `Jan 2026` | [link](https://lifetimetax.co.uk)
+- 🤖 AgentFix [repo](https://github.com/willgdjones/agentfix) - Auto-fixes dev server errors with AI; watches terminal, patches code `Dec 2025`
+- 🤫 Thiel Secrets [repo](https://github.com/willgdjones/thielsecrets) - Share your contrarian belief, swipe, get matched with kindred spirits `Nov 2025` | [link](https://thielsecrets.com)
+- 🆘 HelpMe AI [repo](https://github.com/willgdjones/helpme) - Voice + image AI assistant; Whisper, OCR, GPT. Hands-free help `Sep 2025`
+- 📝 DocTweak [repo](https://github.com/willgdjones/doctweak) - Google Docs add-on; rewrite and transform text with AI in the sidebar `Feb 2025`
 
 ## Writing
 

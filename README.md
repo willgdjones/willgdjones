@@ -15,7 +15,7 @@ More at [willgdjones.com](https://willgdjones.com).
 
 ## Current Projects
 
-- 📬 Mail Toll [repo](https://github.com/willgdjones/mailtoll) | [link](https://mailtoll.app) | write — Paid priority inbox for AI agents via x402 micropayments `Apr 2026`
+- 📬 Mail Toll [repo](https://github.com/willgdjones/mailtoll) | [link](https://mailtoll.app) | [write](https://willgdjones.com/essays/mailtoll-inbox-economics-2026/) — Paid priority inbox for AI agents via x402 micropayments `Apr 2026`
 - 🧭 Steward [repo](https://github.com/willgdjones/steward) | link | write — Personal AI agent for Gmail admin; swipe-to-approve, exception-only `Apr 2026`
 - 💸 Fainance [repo](https://github.com/willgdjones/fainance) | link | [write](https://willgdjones.com/essays/ai-agent-accountant-2026/) — Claude Code agent reconciling Monzo + Xero; auto-matches receipts `Apr 2026`
 - 🎙️ Retinue [repo](https://github.com/willgdjones/retinue) | link | write — Ambient AI research assistant; listens, detects key moments, dispatches agents `Feb 2026`

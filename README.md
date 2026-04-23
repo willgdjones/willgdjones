@@ -18,7 +18,7 @@ More at [willgdjones.com](https://willgdjones.com).
 - 📬 Mail Toll [repo](https://github.com/willgdjones/mailtoll) | [link](https://mailtoll.app) | [write](https://willgdjones.com/essays/mailtoll-inbox-economics-2026/) — Paid priority inbox for AI agents via x402 micropayments `Apr 2026`
 - 🧭 Steward [repo](https://github.com/willgdjones/steward) | link | [write](https://willgdjones.com/essays/steward-butler-for-your-life-2026/) — Personal AI agent for Gmail admin; swipe-to-approve, exception-only `Apr 2026`
 - 💸 Fainance [repo](https://github.com/willgdjones/fainance) | link | [write](https://willgdjones.com/essays/ai-agent-accountant-2026/) — Claude Code agent reconciling Monzo + Xero; auto-matches receipts `Apr 2026`
-- 🎙️ Retinue [repo](https://github.com/willgdjones/retinue) | link | write — Ambient AI research assistant; listens, detects key moments, dispatches agents `Mar 2026`
+- 🎙️ Retinue [repo](https://github.com/willgdjones/retinue) | link | [write](https://willgdjones.com/essays/every-royal-needs-a-retinue-2026/) — Ambient AI research assistant; listens, detects key moments, dispatches agents `Mar 2026`
 - 👻 Boggart [repo](https://github.com/willgdjones/boggart) | [link](https://boggart.ai) | [write](https://willgdjones.com/essays/boggart-deepmind-granola-hackathon-2026/) — Psychological profiling from your digital footprint → hyper-personalised ads `Feb 2026`
 - 💧 Distillation [repo](https://github.com/willgdjones/distillation) | [link](https://distillation.app) | write — Personalised knowledge synthesis; consolidates the internet into dense briefings `Feb 2026`
 - 🏎️ Slipstream [repo](https://github.com/willgdjones/slipstream) | link | write — Polymarket × Binance latency arbitrage bot in Rust `Jan 2026`

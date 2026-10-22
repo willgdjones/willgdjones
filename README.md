@@ -15,19 +15,19 @@ More at [willgdjones.com](https://willgdjones.com).
 
 ## Current Projects
 
-- 🎮 Pokemon Yellow 3D [repo](https://github.com/willgdjones/pokemon-yellow-3d) | [link](https://github.com/willgdjones/pokemon-yellow-3d/releases/tag/v0.1) | [write](https://willgdjones.com/essays/pokemon-yellow-3d-2026/) — Game Boy Pokemon Yellow rebuilt tile for tile in Unreal Engine 5, with real-time battles; built by AI agents `Oct 2026`
+- 🎮 Pokemon Yellow 3D [repo](https://github.com/willgdjones/pokemon-yellow-3d) | [link](https://github.com/willgdjones/pokemon-yellow-3d/releases/tag/v0.1) | [write](https://willgdjones.com/essays/pokemon-yellow-3d-2026/) — Game Boy Pokemon Yellow rebuilt in Unreal Engine 5, built by AI agents `Oct 2026`
 - 🇫🇷 Ninjago French [repo](https://github.com/willgdjones/ninjago-french) | [link](https://ninjago-french.pages.dev) | [write](https://willgdjones.com/essays/ninjago-french-2026/) — iPad battle game teaching my 7-year-old the first 5,000 French words `Oct 2026`
 - 🥷 Ninjago Tournament [repo](https://github.com/willgdjones/ninjago-tournament) | [link](https://ninjago-tournament.pages.dev) | [write](https://willgdjones.com/essays/ninjago-tournament-2026/) — Reading battle game for my 4-year-old, from his own drawing `Oct 2026`
-- 🌉 Grand Tech Auto: San Francisco repo | [link](https://gtasf.pages.dev) | write — Browser multiplayer city built from real SF roads, terrain and buildings (invite-only playtest) `Oct 2026`
-- 📈 Trading Bot [repo](https://github.com/willgdjones/tradingbot-public) | link | write — Multi-strategy trading system that proves edges with small live stakes before growing capital `Oct 2026`
-- 🗽 Billion Dollar Times Square repo coming | link | write — Persistent multiplayer Times Square in the browser where every screen is for sale `Sep 2026`
-- 🐉 Ninjago: The Ninja Journey repo coming | link | write — Local co-op browser adventure for up to four family members `Sep 2026`
+- 🌉 Grand Tech Auto: San Francisco [repo](https://github.com/willgdjones/grand-tech-auto-sf) | [link](https://gtasf.com) | write — Multiplayer GTA-style game in real San Francisco `Oct 2026`
+- 📈 Trading Bot [repo](https://github.com/willgdjones/tradingbot-public) | link | write — Multi-strategy trading bot proving edges with small live stakes `Oct 2026`
+- 🗽 Billion Dollar Times Square repo coming | link | write — Persistent multiplayer Times Square where every screen is for sale `Sep 2026`
+- 🐉 Ninjago: The Ninja Journey repo coming | link | write — Local co-op browser adventure for the whole family `Sep 2026`
 - 📬 Mail Toll [repo](https://github.com/willgdjones/mailtoll) | [link](https://mailtoll.app) | [write](https://willgdjones.com/essays/mailtoll-inbox-economics-2026/) — Paid priority inbox for AI agents via x402 micropayments `Apr 2026`
 - 🧭 Steward [repo](https://github.com/willgdjones/steward) | link | [write](https://willgdjones.com/essays/steward-butler-for-your-life-2026/) — Personal AI agent for Gmail admin; swipe-to-approve, exception-only `Apr 2026`
 - 💸 Fainance [repo](https://github.com/willgdjones/fainance) | link | [write](https://willgdjones.com/essays/ai-agent-accountant-2026/) — Claude Code agent reconciling Monzo + Xero; auto-matches receipts `Apr 2026`
 - 🎙️ Retinue repo | [link](https://retinueapp.com) | [write](https://willgdjones.com/essays/every-royal-needs-a-retinue-2026/) — Ambient AI research assistant; listens, detects key moments, dispatches agents `Mar 2026`
 - 👻 Boggart [repo](https://github.com/willgdjones/boggart) | [link](https://boggart.ai) | [write](https://willgdjones.com/essays/boggart-deepmind-granola-hackathon-2026/) — Psychological profiling from your digital footprint → hyper-personalised ads `Feb 2026`
-- 💧 Distillation [repo](https://github.com/willgdjones/distillation) | [link](https://distillation.app) | write — Personalised knowledge synthesis; consolidates the internet into dense briefings `Feb 2026`
+- 💧 Distillation [repo](https://github.com/willgdjones/distillation) | [link](https://distillation.app) | write — Personalised knowledge synthesis; the internet as dense briefings `Feb 2026`
 - 🏎️ Slipstream [repo](https://github.com/willgdjones/slipstream) | link | write — Polymarket × Binance latency arbitrage bot in Rust `Jan 2026`
 - 💷 LifetimeTax [repo](https://github.com/willgdjones/lifetimetax) | [link](https://lifetimetax.co.uk) | write — Lifetime UK tax contribution calculator using HMRC OAuth data `Jan 2026`
 - 🤖 AgentFix [repo](https://github.com/willgdjones/agentfix) | [link](https://www.npmjs.com/package/agentfix) | [write](https://willgdjones.com/essays/agentfix-cursor-hackathon-2026/) — Auto-fixes dev server errors with AI; watches terminal, patches code `Dec 2025`
